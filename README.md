@@ -1,13 +1,13 @@
 <div align="center">
   
-# Striver’s A2Z DSA Journey in Java ☕
+# My Winter A2Z DSA Journey in Java ☕
 
 **A dedicated repository documenting my daily progress in mastering Data Structures & Algorithms (DSA) using the A2Z DSA Sheet curated by Raj Vikramaditya (Striver).**
 
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <a href="https://www.linkedin.com/in/shubhadeep-saha1/">
     <img src="https://img.shields.io/badge/LinkedIn-SHUBHADEEP_SAHA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/shubhadeep357">
@@ -35,13 +35,6 @@ Strivers_A2Z_DSA/
 │
 ├── 📁 Day1/
 │   └── InputOutput.java
-│
-├── 📁 Day2/
-│   └── LoopsPatterns.java
-│
-├── 📁 Day3/
-│   └── BasicMath.java
-│
 ├── .gitignore
 └── README.md
 ---
@@ -81,10 +74,13 @@ These are the technologies and resources I'm using on this journey:
 
 I'm always open to connecting with fellow learners and developers. Let’s grow together!
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shubhadeep-saha1/)
 [![GitHub](https://img.shields.io/badge/Follow-GitHub-black.svg?logo=github&style=for-the-badge)](https://github.com/shubhadeep357)
+<a href="mailto:shubhadeepsaha357@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
-**Hashtags:** `#StriversA2ZDSA` `#100DaysOfDSA` `#JavaDSA` `#ConsistencyWins`
+**Hashtags:** `#StriversA2ZDSA` `#TUFWinterArc` `#JavaDSA` `#Consistency`
 
 ---
 
